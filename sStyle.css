@@ -1,0 +1,17 @@
+.scard{
+    position: relative;
+    top: 10px;
+    right: 10px;
+    left: 5px;
+    margin: 0;
+    box-shadow: 0 0 15px 4px black;
+    border-radius: 4px;
+    display: block;
+    height: 650px
+}
+
+.swidth {
+    width: 100%;
+    max-width: 600;
+    min-width: 250
+}
