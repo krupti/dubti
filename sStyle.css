@@ -1,3 +1,15 @@
+<!-- Font section -->
+body, html {
+    font-family: 'Boogaloo', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Bevan', cursive;
+}
+h1{
+    color:white;
+    font-size:24px;
+}
+<!-- END Font section -->
+
 .scard{
     position: relative;
     top: 10px;
@@ -10,12 +22,6 @@
     height: 650px
 }
 
-.sbody {
-    width: 100%;
-    background-color:blue;
-}
 
-h1{
-    color:white;
-    font-size:24px;
+
     
