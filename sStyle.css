@@ -4,11 +4,32 @@ body, html {
     font-family: 'Fredoka One', cursive;
     font-family: 'Bevan', cursive;
 }
-h1{
-    color:white;
+h1, title{
     font-size:24px;
+    font-family: 'Bevan', cursive;
+}
+h2{
+    font-size:20px;
+    font-family: 'Bevan', cursive;
+}
+h3{
+    font-size:16px;
+    font-family: 'Bevan', cursive;
+}
+h4{
+    font-size:12px;
+    font-family: 'Bevan', cursive;
+}
+p{
+    font-size:10px;
+    font-family: 'Bevan', cursive;
 }
 <!-- END Font section -->
+
+.wText{
+    color:white;
+    text-shadow: 0 1px 2px black;
+}
 
 .scard{
     position: relative;
